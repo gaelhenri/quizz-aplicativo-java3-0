@@ -155,11 +155,12 @@ let questions = [
     {
       numb: 15,
       question:"Qual é a moeda do Brasil?"
-      answer:"Júpiter"
+      answer:"real"
       options[
         "real"
         "euro"
         "dólar"
+        "cruzeiro "
         
       ]
     }
